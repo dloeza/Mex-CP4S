@@ -64,7 +64,7 @@
             "2"
           ],
           "type" : "ipv4-addr",
-          "value" : "9.148.5.180"
+          "value" : "190.128.169.130"
         },
         "1" : {
           "dst_port" : 0,
@@ -85,7 +85,7 @@
             "4"
           ],
           "type" : "ipv4-addr",
-          "value" : "176.231.189.97"
+          "value" : "172.16.10.10"
         },
         "4" : {
           "type" : "mac-addr",
@@ -96,7 +96,7 @@
           "user_id" : "998"
         },
         "6" : {
-          "payload_bin" : "PDE0Mj5BcHIgMjMgMDc6NTE6MzQgZGVtb0FwcCB7InNvdXJjZWlwIjogIjkuMTQ4LjUuMTgwIiwg\nImRlc3RpbmF0aW9uaXAiOiAiMTc2LjIzMS4xODkuOTciLCAic291cmNlcG9ydCI6IDQ0OTQ0LCAi\nZGVzdGluYXRpb25wb3J0IjogMzMzMywgInN0YXJ0dGltZSI6IDE1ODc2MTczMTIwMDAsICJlbmR0\naW1lIjogMTU4NzYxNzM5MDAwMCwgInByb3RvY29saWQiOiA2LCAiU3JjTmV0d29yayI6ICJIYWlm\nYV9TZXJ2ZXJfU2VnbWVudHMiLCAiRGVzTmV0d29yayI6ICJvdGhlciIsICJzb3VyY2VmbGFncyI6\nIDIsICJkZXN0aW5hdGlvbmZsYWdzIjogMTgsICJzb3VyY2VfYnl0ZXMiOiA3NC4wLCAiZGVzdGlu\nYXRpb25fYnl0ZXMiOiA3NC4wLCAic291cmNlX3BhY2tldHMiOiAxLjAsICJkZXN0aW5hdGlvbl9w\nYWNrZXRzIjogMS4wLCAicmF0aW8iOiAxLjAsICJkaXJlY3Rpb24iOiAiTDJSIiwgInBvcnQiOiAz\nMzMzLCAicHJvdG9jb2wiOiAiVENQIiwgImFwcCI6IDAsICJzY29yZSI6IDk5OCwgImV2ZW50SWQi\nOiAiYWJub3JtYWwgTDJSIGNvbW11bmljYXRpb24gLSBoaWdoIFVMIiwgInVzZXJOYW1lIjogOTk4\nfQA=",
+          "payload_bin" : "",
           "type" : "artifact"
         }
       },
@@ -109,9 +109,9 @@
         "high_level_category_id" : "14000",
         "high_level_category_name" : "Flow",
         "identity_ip" : "0.0.0.0",
-        "log_source_id" : "663",
+        "log_source_id" : "762",
         "log_source_name" : "web_server",
-        "log_source_type_name" : "Device type 663",
+        "log_source_type_name" : "Device type 762",
         "magnitude" : 3,
         "qid" : "11750804",
         "qid_name" : "Suspicious Flow",
@@ -178,9 +178,9 @@
         "high_level_category_id" : "14000",
         "high_level_category_name" : "Flow",
         "identity_ip" : "0.0.0.0",
-        "log_source_id" : "663",
+        "log_source_id" : "762",
         "log_source_name" : "web_server",
-        "log_source_type_name" : "Device type 663",
+        "log_source_type_name" : "Device type 762",
         "magnitude" : 3,
         "qid" : "11750804",
         "qid_name" : "Suspicious Flow",
@@ -455,8 +455,8 @@
         "high_level_category_name" : "Command",
         "identity_ip" : "0.0.0.0",
         "log_source_id" : "1112",
-        "log_source_name" : "intng",
-        "log_source_type_name" : "OSprey",
+        "log_source_name" : "OSprey",
+        "log_source_type_name" : "Device type 1112",
         "magnitude" : 2,
         "qid" : "113501176",
         "qid_name" : "80 80",

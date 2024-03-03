@@ -57,7 +57,7 @@
                     "magnitude": 10,
                     "severity": 10,
                     "src_geolocation": "other",
-                    "dst_geolocation": "Oceania.PapuaNewGuinea",
+                    "dst_geolocation": "Paraguay",
                     "name": "Outbound Transfer of Sensitive Data (PII)",
                     "description": "Outbound flow detected containing suspect conten: entity alert",
                     "rule_names": [
@@ -83,7 +83,7 @@
                     "src_ref": "3",
                     "src_port": 20477,
                     "dst_ref": "7",
-                    "dst_port": 80,
+                    "dst_port": 443,
                     "protocols": [
                         "tcp"
                     ]
@@ -181,7 +181,7 @@
                     "magnitude": 10,
                     "severity": 10,
                     "src_geolocation": "other",
-                    "dst_geolocation": "Oceania.PapuaNewGuinea",
+                    "dst_geolocation": "Paraguay",
                     "name": "Outbound Transfer of Sensitive Data (PII)",
                     "description": "Outbound flow detected containing suspect conten: entity alert",
                     "rule_names": [
@@ -207,7 +207,7 @@
                     "src_ref": "3",
                     "src_port": 20476,
                     "dst_ref": "7",
-                    "dst_port": 80,
+                    "dst_port": 443,
                     "protocols": [
                         "tcp"
                     ]
